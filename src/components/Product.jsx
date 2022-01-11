@@ -24,7 +24,7 @@ const Info = styled.div`
 const Container = styled.div`
   flex: 1;
   margin: 5px;
-  min-width: 280px;
+  min-width: 400px;
   height: 350px;
   display: flex;
   align-items: center;
@@ -61,7 +61,7 @@ const Icon = styled.div`
   transition: all 0.5s ease;
   &:hover {
     background-color: #e9f5f5;
-    transform: scale(1.1);
+    transform: scale(1.3);
   }
 `;
 
